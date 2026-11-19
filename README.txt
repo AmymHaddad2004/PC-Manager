@@ -1,4 +1,4 @@
-PC MANAGER — SEMINÁRIO DE Python
+PC MANAGER — SEMINÁRIO DE PYTHON
 
 ESTRUTURA (todos os arquivos na mesma pasta)
 PC_Manager/
